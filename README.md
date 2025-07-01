@@ -4,7 +4,7 @@ A lightweight PowerShell script to help install, update, and schedule daily upda
 
 ## Features
 
-- 🧱 Install Spicetify directly from the official repo
+- 🧱 Install [Spicetify](https://github.com/spicetify/spicetify-cli) directly from the official repo
 - 🔁 Update Spicetify via one-click menu
 - 🔄 Enable automatic daily updates (via Windows Task Scheduler)
 - 📜 Runs in a safe PowerShell environment with support for restricted execution policies
